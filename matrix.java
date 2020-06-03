@@ -57,3 +57,13 @@ public class matrix {
 
     }
 }
+
+OUTPUT :
+            the sum of 2 matrices is
+                            7 7 7 
+                            8 8 8 
+                            9 9 9 
+            the product of 2 matrices is 
+                            20 14 8 
+                            56 41 26 
+                            92 68 44 
